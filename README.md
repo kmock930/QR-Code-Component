@@ -6,16 +6,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+- [About me](#aboutme)
 
 ## Overview
 
@@ -37,7 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Arranging HTML structures with the use of CSS. 
 - Without using any framework or tool supported, I can master core concepts of web development effectively! 
 
-## Author
+## About Me
 
 - Website - [Kelvin Mock](https://kmock930.github.io/) - under development!!!
 - LinkedIn - [King Lun (Kelvin) Mock](https://www.linkedin.com/in/king-lun-kelvin-mock-548666173/)
