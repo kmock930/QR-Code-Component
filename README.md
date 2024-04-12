@@ -9,7 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-- [About me](#About Me)
+- [About me](#About-Me)
 
 ## Overview
 
@@ -31,7 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Arranging HTML structures with the use of CSS. 
 - Without using any framework or tool supported, I can master core concepts of web development effectively! 
 
-## About Me
+## About-Me
 
 - Website - [Kelvin Mock](https://kmock930.github.io/) - under development!!!
 - LinkedIn - [King Lun (Kelvin) Mock](https://www.linkedin.com/in/king-lun-kelvin-mock-548666173/)
