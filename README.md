@@ -9,7 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-- [About me](#`About Me`)
+- [About me](#About Me)
 
 ## Overview
 
