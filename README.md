@@ -5,6 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
+  - [Guide](#Guide)
   - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -12,6 +13,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [About me](#About-Me)
 
 ## Overview
+
+### Guide
+1. Clone the repository onto your local machine.
+2. Open 'qr-code-component-main' folder.
+3. Open index.html file at your favorite browser.
+Note: The CSS stylesheet is attached to the HTML file at the same directory.
 
 ### Screenshot
 
