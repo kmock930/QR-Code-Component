@@ -1,0 +1,59 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+    min-height: 100vh;
+    align-items: center;
+}
+
+b {
+    font-size: 20px;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    color: hsl(228, 45%, 44%);
+}
+
+footer {
+    font-size: 11px;
+    margin-top: 90vh;
+}
+
+.contentarea {
+    box-shadow: 2px 2px 2px 2px grey;
+    padding: 10px;
+    align-self: center;
+    border-radius: 25px;
+    background-color: white;
+    width: 40%;
+    min-height: 50vh;
+    margin-left: auto;
+    margin-right: auto;
+    white-space: normal;
+    overflow: hidden;
+}
+
+.textarea {
+    text-align: center;
+    margin-top: 130%;
+}
+
+.qrarea {
+    background-color: blue;
+    align-self: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    white-space: normal;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+    align-self: center;
+}
